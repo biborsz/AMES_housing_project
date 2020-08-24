@@ -1,5 +1,5 @@
 
-# Project 2 - Ames Housing Data and Kaggle Challenge
+# Predicting housing prices in Ames, Iowa
 
 ## Overview
 The project focuses of finding the best strategy to predict the sale price of individual residential properties in Ames, Iowa.
