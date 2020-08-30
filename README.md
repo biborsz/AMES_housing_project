@@ -92,3 +92,5 @@ Comparing the training and test R^2 scores of each regularized regression model 
 2. When we have a dataset with a large number of features, using the SelectKBest function of the sklearn.feature_selection library has its undoubtable advantages. However, given that the model with intuitively selected features had better bias/variance indicators than the model with automated feature selection, I recommend the use of a methodological hybryd: machine aided - intuitive feature selection. 
 
 3. Outliers identified during EDA seem to make the more complex models unstable. Further analysis may reveal underlying trends in the data that may require special attention. Revealing those trends would help fine-tune the models to increase the reliability of our predictions. 
+
+[Presentation](Presentation.pdf)
